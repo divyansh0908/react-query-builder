@@ -1,0 +1,121 @@
+export const dummyResponse: {
+  theme: string;
+  subtheme: string;
+  source: string;
+  rating: number;
+  customer_id: string;
+  timeperiod: string;
+}[] = [
+  {
+    theme: "Books",
+    subtheme: "Oswell",
+    source: "Amarete",
+    rating: 5,
+    customer_id: "01GS7HX1A09BZDMG5C6J92MRZ6",
+    timeperiod: "10/16/2022",
+  },
+  {
+    theme: "Offers",
+    subtheme: "Dionne",
+    source: "San Bernardino",
+    rating: 3,
+    customer_id: "01GS7HX1A32X2F1B0KPWJCJ8ZW",
+    timeperiod: "3/3/2021",
+  },
+  {
+    theme: "Sports",
+    subtheme: "Tobe",
+    source: "Miguel Aleman",
+    rating: 1,
+    customer_id: "01GS7HX1A6P99Q27YSH7Q0ZSRG",
+    timeperiod: "7/12/2022",
+  },
+  {
+    theme: "Computers",
+    subtheme: "Jeddy",
+    source: "Bondokodi",
+    rating: 3,
+    customer_id: "01GS7HX1A92JZQFC5Z0APC418K",
+    timeperiod: "3/10/2021",
+  },
+  {
+    theme: "Tools",
+    subtheme: "Alexis",
+    source: "Beitai",
+    rating: 5,
+    customer_id: "01GS7HX1AD9HQ7EYB8W553T3VF",
+    timeperiod: "10/25/2020",
+  },
+  {
+    theme: "Tools",
+    subtheme: "Jewel",
+    source: "Kaeng Khro",
+    rating: 1,
+    customer_id: "01GS7HX1AGKNRXG32PZ8KJ5TX3",
+    timeperiod: "2/3/2021",
+  },
+  {
+    theme: "Garden",
+    subtheme: "Albertina",
+    source: "São Domingos",
+    rating: 5,
+    customer_id: "01GS7HX1AKKHNJZ762RAW0W7WE",
+    timeperiod: "4/18/2021",
+  },
+  {
+    theme: "Outdoors",
+    subtheme: "Janenna",
+    source: "Hualmay",
+    rating: 1,
+    customer_id: "01GS7HX1APJ216AFQBC6051052",
+    timeperiod: "12/17/2021",
+  },
+  {
+    theme: "Beauty",
+    subtheme: "Delbert",
+    source: "Pongola",
+    rating: 4,
+    customer_id: "01GS7HX1ASEMKZB8JN11RREN88",
+    timeperiod: "12/15/2022",
+  },
+  {
+    theme: "Offers",
+    subtheme: "Bill",
+    source: "Huqiu",
+    rating: 1,
+    customer_id: "01GS7HX1AWAVPG8GVV0Y71VW4M",
+    timeperiod: "12/9/2021",
+  },
+  {
+    theme: "Grocery",
+    subtheme: "Valene",
+    source: "Severodvinsk",
+    rating: 1,
+    customer_id: "01GS7HX1AY8KGRGY0PBE9AWH2M",
+    timeperiod: "1/22/2023",
+  },
+  {
+    theme: "Toys",
+    subtheme: "Ann-marie",
+    source: "Jomda",
+    rating: 1,
+    customer_id: "01GS7HX1B15C6CM0EGQAQ97QHK",
+    timeperiod: "11/11/2020",
+  },
+  {
+    theme: "Toys",
+    subtheme: "Felizio",
+    source: "Marseille",
+    rating: 3,
+    customer_id: "01GS7HX1B3VCFYEX844ZHFYEKY",
+    timeperiod: "10/11/2021",
+  },
+  {
+    theme: "Sports",
+    subtheme: "Ferdinanda",
+    source: "Shenjing",
+    rating: 5,
+    customer_id: "01GS7HX1B675K962BKJX6CDDRD",
+    timeperiod: "12/24/2020",
+  },
+];
